@@ -1,5 +1,7 @@
 # Codility Solutions
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/codility.svg)](https://www.guardrails.io)
+
 Solutions to the exercises and tests at http://codility.com/
 
 https://codility.com/programmers/lessons/
